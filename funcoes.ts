@@ -1,0 +1,6 @@
+function addNumber(x,y){
+    return x + y
+}
+
+let soma: number = addNumber(4,7);
+ console.log(soma);
